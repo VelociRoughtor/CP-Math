@@ -1,0 +1,1 @@
+{"name":"Local: Addition","url":"/home/rafy/Desktop/CP Math/Big Integer/Addition.cpp","tests":[{"id":1748870136387,"input":"2\n56 839\n11 89","output":"895\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rafy/Desktop/CP Math/Big Integer/Addition.cpp","group":"local","local":true}
