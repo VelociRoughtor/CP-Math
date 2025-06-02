@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-string sum (string &a, string &b) {
+string sum(string &a, string &b) {
     string c = "";
     reverse(a.begin(), a.end());
     reverse(b.begin(), b.end());
